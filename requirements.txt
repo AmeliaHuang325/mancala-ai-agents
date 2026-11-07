@@ -1,0 +1,7 @@
+# mancala.py uses only the Python standard library.
+# The packages below are needed for 02_analysis.ipynb.
+pandas
+numpy
+matplotlib
+seaborn
+scipy
