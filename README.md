@@ -8,9 +8,8 @@ A from-scratch Mancala (Kalah) engine with five AI agents, evaluated in a **9,40
 
 ![Agent rankings by Elo rating](images/elo_rankings.png)
 
-| | |
-|---|---|
 | **Context** | Foundations of Artificial Intelligence (AI 801), Penn State, Spring 2026 |
+|---|---|
 | **Team** | Shuyang Huang, Elliott Armstrong, Matthew Kolker |
 | **Agents** | Random · Greedy · Minimax · Alpha-Beta (with move ordering) · MCTS (UCT) |
 | **Scale** | 30 agent configurations · 117 matchups · 9,408 games |
